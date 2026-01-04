@@ -1,4 +1,4 @@
-# healthcare azure data engineering project
+# Healthcare Azure Data Engineering Project
 This repository contains the files, datasets and images of the healthcare data engineering project on azure using services such as Data Factory, Databricks, Data Lake, Key vault 
 and aplying data modeling and delta lake principles. 
 
